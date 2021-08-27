@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MrChileball
-- 👀 I’m interested in SCP:SL, PYTHON and MINECRAFT
-- 🌱 I’m currently learning Linux
-- 💞️ I’m looking to collaborate on new projects like minecraft servers or web hosting
-- 📫 How to reach me: chileball#7240
+- 👋 Buenas, soy chileball my nombre real es [REDACTED]
+- 👀 Me interesa SCP:SL, PYTHON y MINECRAFT
+- 🌱 Actualmente estoy aprendiendo Linux
+- 💞️ Si nesecitas ayuda en linux no dudes en contactarme (no soy experto pero puedo ayudar)
+- 📫 mi discord tag:  chileball#7240
 
 <!---
 MrChileball/MrChileball es muy epico
