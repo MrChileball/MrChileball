@@ -1,4 +1,5 @@
-- 👋 Buenas, soy chileball my nombre real es Esteban
+- 👋 Buenas, me llamo Esteban.
+- Estoy aprendiendo Frontent y Arduino :p
 - 👀 Jugador compulsivo de TF2
 - 📫 mi discord: chileball#7240
 
