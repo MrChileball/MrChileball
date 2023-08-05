@@ -1,5 +1,5 @@
 - 👋 Buenas, me llamo Esteban.
-- Estoy aprendiendo Frontent y Arduino :p
+- Estoy aprendiendo Frontend y Arduino :p
 - 👀 Jugador compulsivo de TF2
 - Discord: chileball#7240
 - Revolt.chat: chileball#7947
