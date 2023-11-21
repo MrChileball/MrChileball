@@ -1,5 +1,5 @@
 - 👋 Buenas, me llamo Esteban.
-- Estoy aprendiendo Frontend y Arduino :p
+- Estoy aprendiendo Svelte, ExpressJS, Graphql y frontend en general
 - 👀 Jugador compulsivo de TF2
 - Discord: chileball#7240
 - Revolt.chat: chileball#7947
