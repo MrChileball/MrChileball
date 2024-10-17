@@ -3,7 +3,7 @@
 
 # 💫 MrChileball:
 👋 Welcome to my profile, i'm Esteban.
-<br>Right now, i'm studying Svelte, ExpressJS, Graphql and things related to
+<br>I'm learning Svelte, Figma, Graphql and things related to
 <br>frontend, robotics and arduino.
 <br>👀 I play TF2 and Deadlock 
 <br>Revolt.chat: chileball#7947
