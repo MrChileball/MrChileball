@@ -2,7 +2,6 @@
 
 
 # 💫 MrChileball:
-👋 Welcome to my profile, i'm Esteban.
 <br>I'm learning Svelte, Figma, Graphql and things related to
 <br>frontend, robotics and arduino.
 <br>👀 I play TF2 and Deadlock 
